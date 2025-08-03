@@ -117,7 +117,7 @@ requirementDiagram
       id: 100
       text: The system shall be fast.
     }
-	software - satisfies -> req1
+    software - satisfies -> req1
     software - satisfies -> req2
 ```
 
